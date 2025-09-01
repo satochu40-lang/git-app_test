@@ -66,4 +66,10 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'tzinfo-data',platforms:[:mingw,
+  
+gem 'pry-rails'
+=======
 gem 'devise'
+
