@@ -72,3 +72,4 @@ gem 'tzinfo-data',platforms:[:mingw,
 
 gem 'devise'
 
+gem 'pry-rails'
