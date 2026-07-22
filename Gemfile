@@ -73,4 +73,3 @@ gem 'pry-rails'
 
 gem 'devise'
 
-end
